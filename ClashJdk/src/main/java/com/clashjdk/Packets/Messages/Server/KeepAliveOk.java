@@ -13,6 +13,6 @@ public class KeepAliveOk extends Writer {
 
     @Override
     public void encode() {
-        // Logic Decode
+        
     }
 }
