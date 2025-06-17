@@ -23,20 +23,15 @@ public class LoginOk extends Writer {
         writeInt(0); 
         writeInt(1); 
         writeString("a77bad4dc5241ccb44d5a541376396208f92af8");
-
         writeString(null); 
         writeString(null); 
-
         writeInt(0);
         writeInt(0);
         writeInt(0);
-
-        writeString("dev");  // env
-
+        writeString("dev");
         writeInt(0);
         writeInt(0);
         writeInt(0);
-
         writeString(null);
         System.out.println("[DEBUG] Message LoginOk has been sent.");
     }
