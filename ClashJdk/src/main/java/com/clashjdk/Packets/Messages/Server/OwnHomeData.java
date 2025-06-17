@@ -82,5 +82,6 @@ public class OwnHomeData extends Writer {
         writeInt(0); 
         writeInt(0);
         writeInt(0);
+        System.out.println("[D] Message OwenHomeData has been sent.");
     }
 }
