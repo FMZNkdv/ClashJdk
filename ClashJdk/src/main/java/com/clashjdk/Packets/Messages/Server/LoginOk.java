@@ -33,6 +33,6 @@ public class LoginOk extends Writer {
         writeInt(0);
         writeInt(0);
         writeString(null);
-        System.out.println("[DEBUG] Message LoginOk has been sent.");
+        System.out.println("[D] Message LoginOk has been sent.");
     }
 }
