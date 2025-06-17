@@ -19,7 +19,7 @@ public class Login extends Reader implements Packet {
 
     @Override
     public void decode() {
-    	// Logic decode
+    	
     }
 
     @Override
