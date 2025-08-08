@@ -33,7 +33,7 @@ public class OwnHomeData extends Writer {
         writeByte(1);
         writeInt(0);
         writeInt(1);
-        writeString("DBS Team");
+        writeString("Bliz-Team");
         writeInt(13000001);
         writeInt(0);
         writeByte(1);
